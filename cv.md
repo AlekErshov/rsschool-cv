@@ -10,7 +10,9 @@
 + Passed the initial course in html and css
 + working with Git and GitHub
 ## Code 
-+ no code yet
++<code>
+  &lt;<span>a href="https://code-basics.com/ru"</span>&gt;Link&lt;<span>/a</span>&gt;
+ </code>
 ## work experience
 + https://github.com/AlekErshov/rsschool-cv
 ## My education
